@@ -1,0 +1,18 @@
+{
+  "notFound": "The record not found",
+  "exits": "The record is already",
+  "validations": {
+    "numeric": "Debe ser numerico",
+    "maxLength": "Debe tener contener un maximo de {{max}} caracteres",
+    "rangeLength": "Debe tener contener entre {{min}} y {{max}} caracteres",
+    "date": "El campo debe ser una fecha valida",
+    "decimal": "El campo debe ser decimal ",
+    "integer": "El campo debe ser un entero",
+    "filtros": "Debe ingresar al menos un filtro",
+    "producciones": "Debe seleccionar al menos una cosecha"
+  },
+  "delete": "El registro se elimino correctamente",
+  "notAuthorized": "Acceso no autorizado",
+  "token": "Token es Invalido",
+  "errorDatabase": "Error conexión con base de datos"
+}

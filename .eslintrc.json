@@ -1,0 +1,18 @@
+{
+ "env": {
+  "commonjs": true,
+  "es2021": true,
+  "node": true
+ },
+ "overrides": [],
+ "parserOptions": {
+  "ecmaVersion": "latest"
+ },
+ "rules": {
+  "eqeqeq": "error",
+  "semi": ["off", "never"],
+  "camelcase": ["error", { "properties": "always" }],
+  "quotes": ["error", "single"],
+  "no-unused-vars": ["error", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }]
+ }
+}
